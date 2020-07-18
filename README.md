@@ -1,0 +1,2 @@
+# Online-Examination-System
+Online Examination refers to service as conduct online examination or test . online examination system is used in schools , colleges , universities , institutes for student examination. Online course examination are useful evaluate the student knowledge using modern computer technology without any effects on the traditional university course exam that uses pens and papers invigilators.
